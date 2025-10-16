@@ -1,1 +1,4 @@
-# data_science_prework
+Aby pobrać wybrany pik:
+
+kliknij w konkretny plik,
+naciśnij strzałkę w dół.
